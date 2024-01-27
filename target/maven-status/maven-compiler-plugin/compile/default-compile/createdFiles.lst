@@ -1,0 +1,11 @@
+com\amazinaxel\chatprotector\listeners\AsyncChat.class
+com\amazinaxel\chatprotector\listeners\PlayerQuit.class
+com\amazinaxel\chatprotector\module\IPAddress.class
+com\amazinaxel\chatprotector\ChatProtector.class
+com\amazinaxel\chatprotector\core\cache\RepeatedMessages.class
+com\amazinaxel\chatprotector\interfaces\Check.class
+com\amazinaxel\chatprotector\module\CapsLock.class
+com\amazinaxel\chatprotector\module\WebAddress.class
+com\amazinaxel\chatprotector\module\AntiSpam.class
+com\amazinaxel\chatprotector\core\SharedCore.class
+com\amazinaxel\chatprotector\module\AntiSwear.class
