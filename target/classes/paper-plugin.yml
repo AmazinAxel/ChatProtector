@@ -1,0 +1,4 @@
+name: ChatProtector
+version: '1.0'
+main: com.amazinaxel.chatprotector.ChatProtector
+api-version: '1.19'
