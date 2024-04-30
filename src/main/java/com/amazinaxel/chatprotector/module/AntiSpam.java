@@ -1,12 +1,3 @@
-/*
- * Decompiled with CFR 0.150.
- * 
- * Could not load the following classes:
- *  org.bukkit.Bukkit
- *  org.bukkit.entity.Player
- *  org.bukkit.event.player.AsyncPlayerChatEvent
- *  org.bukkit.plugin.Plugin
- */
 package com.amazinaxel.chatprotector.module;
 
 import com.amazinaxel.chatprotector.ChatProtector;

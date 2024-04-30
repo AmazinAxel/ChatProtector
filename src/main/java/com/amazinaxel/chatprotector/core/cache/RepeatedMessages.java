@@ -1,6 +1,3 @@
-/*
- * Decompiled with CFR 0.150.
- */
 package com.amazinaxel.chatprotector.core.cache;
 
 import java.util.HashMap;

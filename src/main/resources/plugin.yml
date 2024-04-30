@@ -1,5 +1,5 @@
 name: ChatProtector
-version: '1.0'
+version: '1.1'
 main: com.amazinaxel.chatprotector.ChatProtector
 api-version: '1.20'
 description: Cleans & protects the chat by preventing swearing, spamming, and more!
